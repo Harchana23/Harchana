@@ -88,6 +88,7 @@ harchana23:~$ stack --ai
 
 **[Exam Platform](https://github.com/Harchana23/exam-platform)** — an AI-graded, multi-course exam & certification platform: a Supabase data layer (Postgres + RLS + Auth), an admin **AI quiz generator** and **rubric-anchored AI grading** (Claude), a quiz runner with autosave + resume, Stripe-gated tiers, and verifiable certificates. **· [Live ↗](https://examcert-web.vercel.app)**
 `Next.js 16` · `TypeScript` · `Supabase` · `Claude (Opus 4.8)` · `n8n` · `Stripe`
+*🟢 Completed — main developer.*
 
 **🔍 [AI Visibility](https://github.com/Harchana23/ai-visibility)** — AEO audit SaaS that scores how visible a site is to AI search engines (ChatGPT · Perplexity · Gemini · Claude), 0–100 in under a minute. **· [Live ↗](https://aivisibility.cyberg7.com.sg)**
 `Next.js 16` · `Supabase` · `Stripe` · `Inngest`
@@ -119,7 +120,9 @@ harchana23:~$ stack --ai
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harchana23&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<a href="https://github.com/Harchana23">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harchana23&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
+</a>
 
 </div>
 
