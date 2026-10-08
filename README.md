@@ -12,14 +12,14 @@
 harchana23:~$ whoami
 ↳ AI Software Developer — I build & ship production AI systems, end to end
 harchana23:~$ ls ./shipped
-↳ ai-business-training-platform  ai-visibility  launchnow  website-factory  +5 more
+↳ ai-visibility  launchnow  website-factory  +5 more
 harchana23:~$ cat ./building
-↳ ai-business-training-platform — RAG-powered business training & readiness platform
+↳ thailand-ai-business-training-platform — RAG + conversational AI + document intelligence
 harchana23:~$ stack --ai
 ↳ llm-orchestration · rag · n8n · claude-code · supabase
 ```
 
-* 🤖 I help turn ideas into shipped, paying products — AI platforms, audit engines, content factories, dispatch apps, and video pipelines
+* 🤖 I help turn ideas into shipped, paying products — audit engines, content factories, dispatch apps, and video pipelines
 * 🧠 Comfortable across the stack: Next.js front-to-back, Postgres + RLS, LLM orchestration, payments, deploys, and the automation glue (n8n, Make.com, Airtable, MCP)
 * 💼 Open to **AI Software Developer** roles
 
@@ -45,7 +45,7 @@ harchana23:~$ stack --ai
 **AI dev tools**
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square\&logo=anthropic\&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square\&logo=openai\&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square\&logo=cursor\&logoColor=white)
 
 **Automation & no-code**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
@@ -82,14 +82,12 @@ harchana23:~$ stack --ai
 
 ### 🚧 Currently building
 
-**[AI Business Training Platform](https://github.com/Harchana23/ai-business-training-platform)** — a full-stack AI-powered business training and readiness platform combining **RAG document intelligence**, Pinecone vector search + reranking, **conversational AI assessment**, automated question generation, learner progression, and role-based administration. I designed the architecture, PostgreSQL/Supabase data model, RLS authorization, AI pipelines, background processing, and testing strategy end-to-end. **· [GitHub ↗](https://github.com/Harchana23/ai-business-training-platform)**
+**[Thailand AI Business Training Platform](https://github.com/Harchana23/ai-business-training-platform)** — a full-stack AI-powered business training and readiness platform combining **RAG document intelligence**, Pinecone vector search + reranking, **conversational AI assessment**, automated question generation, learner progression, and role-based administration. I designed the architecture, PostgreSQL/Supabase data model, RLS authorization, AI pipelines, background processing, and testing strategy end-to-end.
 `Next.js 16` · `TypeScript` · `Supabase / PostgreSQL` · `Anthropic Claude` · `Pinecone` · `RAG` · `Docker`
-
 *🟢 Ongoing — built as a CyberG7 project; a sanitized version is published with permission.*
 
-### Shipped at CyberG7
-
-> Production systems I've **contributed to at CyberG7**. Most of the code lives in private company repos — these showcase repos and the live links are the real thing, and I'm glad to walk through my part of any of them.
+**[Exam Platform](https://github.com/Harchana23/exam-platform)** — an AI-graded, multi-course exam & certification platform: a Supabase data layer (Postgres + RLS + Auth), an admin **AI quiz generator** and **rubric-anchored AI grading** (Claude), a quiz runner with autosave + resume, Stripe-gated tiers, and verifiable certificates. **· [Live ↗](https://examcert-web.vercel.app)**
+`Next.js 16` · `TypeScript` · `Supabase` · `Claude (Opus 4.8)` · `n8n` · `Stripe`
 
 **🔍 [AI Visibility](https://github.com/Harchana23/ai-visibility)** — AEO audit SaaS that scores how visible a site is to AI search engines (ChatGPT · Perplexity · Gemini · Claude), 0–100 in under a minute. **· [Live ↗](https://aivisibility.cyberg7.com.sg)**
 `Next.js 16` · `Supabase` · `Stripe` · `Inngest`
